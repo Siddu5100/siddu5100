@@ -2,16 +2,10 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" wideth="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4788ixogjpqlbh5yy8f0v0t7qef2hcqbiv1j6pac0l&rid=giphy.gif&ct=g"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddu5100&label=Profile%20views&color=0e75b6&style=flat" alt="siddu5100" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddu5100" alt="siddu5100" /></a> </p>
 
 - 🔭 I’m currently working on **RESUME PARSER**
-
 - 🌱 I’m currently learning **NLP, OCR & AI**
-
 - 🤝 I’m looking for help with **Optical Character Recognition Scanner & Natural language Processing.**
-
 - 📫 How to reach me **gopalsiddu24@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
